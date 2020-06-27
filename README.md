@@ -4,7 +4,6 @@
 
 ## :octocat: Second Semester
 
-&emsp;
 
 - ### [Cmpe160](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe160) 
 ```
@@ -18,8 +17,6 @@ Introduction to Object Oriented Programming
 &emsp;
 
 ## :octocat:  Third Semester
-
-&emsp;
 
 - ### [Cmpe250](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe250) 
 ```
@@ -35,7 +32,6 @@ Data Structures & Algorithms
 
 ## :octocat:  Fourth Semester
 
-&emsp;
 
 - ### [Cmpe230](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe230) 
 ```
