@@ -25,7 +25,7 @@ Data Structures & Algorithms
   | [Project 2](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe250/Project2/Restaurant_Organizer)| C++ |
   --- | ---
   | [**Project 3**](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe250/Project3/Airplane_seats)| **C++**|
-  | [**Project 4**](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe160/Project3/SlidePuzzle)| **C++**|
+  | [**Project 4**](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe250/Project4/Mountain_Map)| **C++**|
   | [**Project 5**](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe250/Project5/Shopping_list)| **C++**|
   
 &emsp;
