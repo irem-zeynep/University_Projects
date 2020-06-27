@@ -1,7 +1,4 @@
 % irem zeynep alagoz
-% 2018400063
-% compiling: yes
-% complete: yes
 
 % artist(ArtistName, Genres, AlbumIds).
 % album(AlbumId, AlbumName, ArtistNames, TrackIds).
