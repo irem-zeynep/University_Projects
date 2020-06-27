@@ -1,6 +1,11 @@
 #  :school_satchel: University Projects  
 
+&emsp;
+
 ## :octocat: Second Semester
+
+&emsp;
+
 - ### [Cmpe160](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe160) 
 ```
 Introduction to Object Oriented Programming
@@ -9,8 +14,13 @@ Introduction to Object Oriented Programming
   --- | ---
   | [**Project 2**](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe160/Project2/TrainSimulator)| **Java**|
   | [**Project 3**](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe160/Project3/SlidePuzzle)| **Java**|
+  
+&emsp;
 
 ## :octocat:  Third Semester
+
+&emsp;
+
 - ### [Cmpe250](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe250) 
 ```
 Data Structures & Algorithms
@@ -20,9 +30,13 @@ Data Structures & Algorithms
   | [**Project 3**](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe250/Project3/Airplane_seats)| **C++**|
   | [**Project 4**](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe160/Project3/SlidePuzzle)| **C++**|
   | [**Project 5**](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe250/Project5/Shopping_list)| **C++**|
-
+  
+&emsp;
 
 ## :octocat:  Fourth Semester
+
+&emsp;
+
 - ### [Cmpe230](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe230) 
 ```
 Systems Programming
