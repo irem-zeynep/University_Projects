@@ -72,7 +72,6 @@ public class Train{
 			length--;
 		}
 		
-		//System.out.println("In station " + currentStation + " there are " + length + " carriages");
 	}
 	
 	public void unload(Queue<Cargo> cargos) {
