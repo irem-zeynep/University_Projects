@@ -7,7 +7,7 @@
 
 - ### [Cmpe160](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe160) 
 ```
-Introduction to Object Oriented Programming
+Introduction to Object Oriented Programming - Tuna Tuğcu
 ```
   | [Project 1](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe160/Project1/LibrarySimulator)| Java |
   --- | ---
@@ -20,7 +20,7 @@ Introduction to Object Oriented Programming
 
 - ### [Cmpe250](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe250) 
 ```
-Data Structures & Algorithms
+Data Structures & Algorithms - Ali Akkaya
 ```
   | [Project 2](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe250/Project2/Restaurant_Organizer)| C++ |
   --- | ---
