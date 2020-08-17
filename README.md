@@ -35,7 +35,7 @@ Data Structures & Algorithms - Ali Akkaya
 
 - ### [Cmpe230](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe230) 
 ```
-Systems Programming
+Systems Programming - Can Özturan
 ``` 
  
 | [Project 1](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe230/Project1)| Java |
@@ -45,7 +45,7 @@ Systems Programming
 
 - ### [Cmpe240](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe240) 
 ```
-Digital Systems	
+Digital Systems	- Alper Şen
 ```
 | [Project 4](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe240/Preliminary4)| Verilog |
 --- | ---
@@ -54,7 +54,7 @@ Digital Systems
 
 - ### [Cmpe260](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe260) 
 ```
-Principles of Programming Languages
+Principles of Programming Languages - Fatma Başak Aydemir
 ```
   | [Project 1](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe260/Project1)| Prolog |
   --- | ---
