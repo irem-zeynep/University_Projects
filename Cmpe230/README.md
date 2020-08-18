@@ -4,7 +4,6 @@
   | [Project 1](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe230/Project1)| Assembler |Java |
   --- | ---| ---|
   | [**Project 2**](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe230/Project2)| **Duplicate Detector** |**Python**|
-  | [**Project 3**](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe230/Project3)| **Matching Words Game
-** | **C++ Qt**|
+  | [**Project 3**](https://github.com/irem-zeynep/University_Projects/tree/master/Cmpe230/Project3)| **Matching Words Game** | **C++ Qt**|
   
 
