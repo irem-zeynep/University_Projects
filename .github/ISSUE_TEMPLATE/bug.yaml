@@ -3,7 +3,7 @@ description: Report a bug
 title: "[Bug]: "
 labels: ["Type: Bug", "Status: Available", "Priority: Medium"]
 assignees:
-  - octocat
+  - assign yourself
 body:
   - type: markdown
     attributes:
